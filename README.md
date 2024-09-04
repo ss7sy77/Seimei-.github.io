@@ -126,5 +126,4 @@ function addGoal() {
     // 入力欄をリセット
     document.getElementById('goalTitle').value = '';
     document.getElementById('goalDeadline').value = '';
-    document.getElementById('goalAmount').value = '';
-}
+    document.getElementById('goalAmount').value = '';}
